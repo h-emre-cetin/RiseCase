@@ -21,4 +21,4 @@ namespace RiseCase.Models
         Location,
     }
 }
-}
+
